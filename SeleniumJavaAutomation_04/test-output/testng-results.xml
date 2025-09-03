@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-02T19:34:49 IST" name="Default suite" finished-at="2025-09-02T19:34:51 IST" duration-ms="2492">
+  <suite started-at="2025-09-03T10:28:12 IST" name="Default suite" finished-at="2025-09-03T10:28:12 IST" duration-ms="81">
     <groups>
     </groups>
-    <test started-at="2025-09-02T19:34:49 IST" name="Default test" finished-at="2025-09-02T19:34:51 IST" duration-ms="2492">
-      <class name="com.day_20.WritingExcelDataInSpecifRowsCell">
-        <test-method signature="WritingIntoExcelData()[pri:0, instance:com.day_20.WritingExcelDataInSpecifRowsCell@5e0e82ae]" started-at="2025-09-02T19:34:49 IST" name="WritingIntoExcelData" finished-at="2025-09-02T19:34:51 IST" duration-ms="2383" status="PASS">
+    <test started-at="2025-09-03T10:28:12 IST" name="Default test" finished-at="2025-09-03T10:28:12 IST" duration-ms="81">
+      <class name="com.day_21.Reading_Properties">
+        <test-method signature="Reading_Propertie()[pri:0, instance:com.day_21.Reading_Properties@6771beb3]" started-at="2025-09-03T10:28:12 IST" name="Reading_Propertie" finished-at="2025-09-03T10:28:12 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- WritingIntoExcelData -->
-      </class> <!-- com.day_20.WritingExcelDataInSpecifRowsCell -->
+        </test-method> <!-- Reading_Propertie -->
+      </class> <!-- com.day_21.Reading_Properties -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

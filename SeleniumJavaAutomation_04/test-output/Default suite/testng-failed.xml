@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.day_19.SVG_Elements">
+      <class name="com.day_21.Reading_Properties">
         <methods>
-          <include name="SVG_Element"/>
+          <include name="Reading_Propertie"/>
         </methods>
-      </class> <!-- com.day_19.SVG_Elements -->
+      </class> <!-- com.day_21.Reading_Properties -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
