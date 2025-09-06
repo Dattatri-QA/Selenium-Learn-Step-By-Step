@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.day_21.Reading_Properties">
+      <class name="com.day_26.OrangeHRM">
         <methods>
-          <include name="Reading_Propertie"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="testURL"/>
         </methods>
-      </class> <!-- com.day_21.Reading_Properties -->
+      </class> <!-- com.day_26.OrangeHRM -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
